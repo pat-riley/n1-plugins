@@ -9,6 +9,7 @@ If you create a plugin, please make a pull request to add it here!
 - [Templated replies](https://github.com/nylas/N1/tree/master/examples/N1-Composer-Templates)
 - [Translate](https://github.com/nylas/N1/tree/master/examples/N1-Composer-Translate)
 - [Calendar availability](https://github.com/nylas/N1/tree/master/examples/N1-Send-Availability)
+-  (IN DEVELOPMENT) [PGP encryption](https://github.com/mbilker/email-pgp)
 
 ### Sidebar
 - [GitHub contact card](https://github.com/nylas/N1/tree/master/examples/N1-Github-Contact-Card-Section)
