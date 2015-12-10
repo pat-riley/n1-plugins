@@ -20,7 +20,7 @@ If you create a plugin, please make a pull request to add it here!
 
 ### Theme
 - [Dark mode](https://github.com/nylas/N1/tree/master/internal_packages/ui-dark) ([tutorial here](https://github.com/nylas/N1/issues/74))
-- [Taiga](http://github.com/noahbuscher.com/N1-Taiga)
+- [Taiga](http://github.com/noahbuscher/N1-Taiga)
 
 ### Threadlist
 - [Personal level indicators](https://github.com/nylas/N1/tree/master/examples/N1-Personal-Level-Indicators)
