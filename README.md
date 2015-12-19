@@ -32,7 +32,6 @@ If you create a plugin, please make a pull request to add it here!
 ### Message view
 - [Phishing detection](https://github.com/nylas/N1/tree/master/examples/N1-Phishing-Detection)
 
-
 ## Ideas
 
 - Flight widget in message ivew
@@ -40,4 +39,4 @@ If you create a plugin, please make a pull request to add it here!
 - Sender info powered by ClearBit in sidebar
 - Encrypt messages with Keybase
 
-
+Making plugins for N1 is easy and straightforward... [Build your first plugin](https://nylas.com/N1/getting-started) in 5 minutes.
