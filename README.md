@@ -4,12 +4,12 @@ Inspried by the @sindresorhous [awesome lists](https://github.com/sindresorhus/a
 
 If you create a plugin, please make a pull request to add it here! 
 
-
 ### Composer
 - [Templated replies](https://github.com/nylas/N1/tree/master/examples/N1-Composer-Templates)
 - [Translate](https://github.com/nylas/N1/tree/master/examples/N1-Composer-Translate)
 - [Calendar availability](https://github.com/nylas/N1/tree/master/examples/N1-Send-Availability)
--  (IN DEVELOPMENT) [PGP encryption](https://github.com/mbilker/email-pgp)
+- (IN DEVELOPMENT) [PGP encryption](https://github.com/mbilker/email-pgp)
+- [Jiffy - search and add gifs to emails](https://github.com/noahbuscher/N1-Jiffy)
 
 ### Sidebar
 - [GitHub contact card](https://github.com/nylas/N1/tree/master/examples/N1-Github-Contact-Card-Section)
