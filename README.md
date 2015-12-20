@@ -9,7 +9,7 @@ If you create a plugin, please make a pull request to add it here!
 - [Translate](https://github.com/nylas/N1/tree/master/examples/N1-Composer-Translate)
 - [Calendar availability](https://github.com/nylas/N1/tree/master/examples/N1-Send-Availability)
 - (IN DEVELOPMENT) [PGP encryption](https://github.com/mbilker/email-pgp)
-- [Jiffy - search and add gifs to emails](https://github.com/noahbuscher/N1-Jiffy)
+- [Jiffy - search and add gifs to emails](http://noahbuscher.github.io/N1-Jiffy)
 
 ### Sidebar
 - [GitHub contact card](https://github.com/nylas/N1/tree/master/examples/N1-Github-Contact-Card-Section)
