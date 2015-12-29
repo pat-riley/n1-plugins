@@ -21,6 +21,7 @@ If you create a plugin, please make a pull request to add it here!
 ### Theme
 - [Dark mode](https://github.com/nylas/N1/tree/master/internal_packages/ui-dark) ([tutorial here](https://github.com/nylas/N1/issues/74))
 - [Taiga](http://noahbuscher.github.io/N1-Taiga)
+- [False Dawn](https://github.com/pat-riley/false-dawn-n1)
 
 ### Threadlist
 - [Personal level indicators](https://github.com/nylas/N1/tree/master/examples/N1-Personal-Level-Indicators)
